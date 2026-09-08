@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1743445502 source:d:\m\revesion\c++\tp_6_rev\point_tp6\main.cpp
+	<iostream>
+
+1777998057 source:d:\m\revesion\c++\tp_6_rev\point_tp6\point.cpp
+	"point.h"
+
+1777998319 d:\m\revesion\c++\tp_6_rev\point_tp6\point.h
+
