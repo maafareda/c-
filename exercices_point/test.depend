@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1778793674 source:d:\tp c++\test\point.cpp
+	"point.h"
+
+1778793674 d:\tp c++\test\point.h
+	<iostream>
+
